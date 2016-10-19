@@ -1,0 +1,6 @@
+#include "/home/rwhite/projects/lib/sqlApps/trunk/include/db_ops.h"
+#include "/home/rwhite/projects/lib/sqlApps/trunk/include/db_query.h"
+#include "/home/rwhite/projects/lib/sqlApps/trunk/include/db_insert.h"
+#include "/home/rwhite/projects/lib/sqlApps/trunk/include/db_update.h"
+#include "/home/rwhite/projects/lib/sqlApps/trunk/include/db_append.h"
+#include "/home/rwhite/projects/lib/sqlApps/trunk/include/db_delete.h"
